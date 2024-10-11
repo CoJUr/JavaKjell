@@ -1,0 +1,48 @@
+ Volume in drive C is Samsung 850 PRO 256GB SSD
+ Volume Serial Number is 1E0D-77FB
+
+ Directory of C:\Users\Cory\OneDrive\Desktop\JavaKjell\loops
+
+10/10/2024  10:32 PM    <DIR>          .
+10/10/2024  10:32 PM    <DIR>          ..
+10/10/2024  10:32 PM                 0 dir.txt
+10/08/2024  12:02 AM               297 Emily.java
+10/10/2024  12:03 PM                83 hello.bat
+10/10/2024  12:03 PM               416 Hello.class
+10/06/2024  01:58 PM               135 Hello.java
+10/03/2024  12:25 PM               351 HelloPlanets.java
+10/10/2024  04:39 PM                14 loops.txt
+               7 File(s)          1,296 bytes
+               2 Dir(s)  15,175,647,232 bytes free
+ Volume in drive C is Samsung 850 PRO 256GB SSD
+ Volume Serial Number is 1E0D-77FB
+
+ Directory of C:\Users\Cory\OneDrive\Desktop\JavaKjell\loops
+
+10/10/2024  10:32 PM    <DIR>          .
+10/10/2024  10:32 PM    <DIR>          ..
+10/10/2024  10:32 PM               695 dir.txt
+10/08/2024  12:02 AM               297 Emily.java
+10/10/2024  12:03 PM                83 hello.bat
+10/10/2024  12:03 PM               416 Hello.class
+10/06/2024  01:58 PM               135 Hello.java
+10/03/2024  12:25 PM               351 HelloPlanets.java
+10/10/2024  04:39 PM                14 loops.txt
+               7 File(s)          1,991 bytes
+               2 Dir(s)  15,175,188,480 bytes free
+
+
+               2 Dir(s)  15,174,819,840 bytes free
+               7 File(s)          2,686 bytes
+ Directory of C:\Users\Cory\OneDrive\Desktop\JavaKjell\loops
+ Volume in drive C is Samsung 850 PRO 256GB SSD
+ Volume Serial Number is 1E0D-77FB
+10/03/2024  12:25 PM               351 HelloPlanets.java
+10/06/2024  01:58 PM               135 Hello.java
+10/08/2024  12:02 AM               297 Emily.java
+10/10/2024  04:39 PM                14 loops.txt
+10/10/2024  10:32 PM             1,390 dir.txt
+10/10/2024  10:35 PM    <DIR>          .
+10/10/2024  10:35 PM    <DIR>          ..
+10/10/2024  12:03 PM                83 hello.bat
+10/10/2024  12:03 PM               416 Hello.class
