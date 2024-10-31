@@ -10,4 +10,6 @@ public class TreeTester
     myTree.grow( 0.10 );
     System.out.println("bigger Tree: " + myTree);
   }
+
+  
 }
